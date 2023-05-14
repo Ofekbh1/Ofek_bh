@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Ofek Ben Hamo</h1>
 <h4>Second-year computer science student at the Holon Institute of Technology, 
-first-year dean's list - average 92.57. </h4>                                                                                                   <h4> Internship at OriginGPS – Embedded Software Engineer (2022 — PRESENT): </h4>
+first-year dean's list - current average 92.57. </h4>                                                                                                   <h4> Internship at OriginGPS – Embedded Software Engineer (2022 — PRESENT): </h4>
 <h5>• Code development project in a Master-Slave architecture is based on Bluetooth Low Energy technology. </h5>
 <h5>• Built a protocol that we will transfer data to IoT and the company's cloud. </h5>
 <h5>• Cooperation with company employees and working under a team leader.</h5>
