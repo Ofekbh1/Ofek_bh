@@ -4,7 +4,7 @@ In the first year, I was included on the dean's list, my grade average is 93.
 I am a self-learner and highly motivated to learn and develop as much as possible. </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/[https://www.linkedin.com/in/ofek-ben-hamo/](https://www.linkedin.com/in/ofek-ben-hamo/)" target="blank"><img align="center" <a href="https://www.linkedin.com/in/ofek-ben-hamo/" target="_blank">
+<a href="https://www.linkedin.com/in/ofek-ben-hamo/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
